@@ -16,3 +16,10 @@ thegamestar075 ----- Art assistance
 A-28 ----- Helper
 CloneAvenger ----- Content Creator, General Help
 
+
+*Cameo'd
+DeadlySprite
+thegamestar075
+doc?
+SlimJayD
+Sergei
