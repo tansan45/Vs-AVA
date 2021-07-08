@@ -1,5 +1,5 @@
-# VsAva
-Vs. Ava Friday Night Funkin mod assets and source code
+# Av-formation
+Vs. AVA Friday Night Funkin mod assets and source code
 
 *Credits (8/7/2021) ; 
 Scrilopolis ----- Project creator, Concept artist, Art assistance
@@ -20,6 +20,6 @@ CloneAvenger ----- Content Creator, General Help
 *Cameo'd
 DeadlySprite
 thegamestar075
-DragonZallo
+(doc?) DragonZallo
 SlimJayD
 Sergei
