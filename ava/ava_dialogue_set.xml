@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ava_dialogue_set.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ava_cry0000" x="0" y="0" width="417" height="393"/>
+	<SubTexture name="ava_emb0000" x="417" y="0" width="417" height="392"/>
+	<SubTexture name="ava_mad0000" x="0" y="393" width="417" height="391"/>
+	<SubTexture name="ava_sad0000" x="417" y="393" width="417" height="391"/>
+</TextureAtlas>
